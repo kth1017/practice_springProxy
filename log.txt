@@ -1,0 +1,5 @@
+# 어드바이스 적용
+- ProxyFactoryConfigV1 참고
+
+# 빈 후처리기 도입
+- BeanPostProcessorConfig 참고

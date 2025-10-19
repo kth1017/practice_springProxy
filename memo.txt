@@ -1,0 +1,2 @@
+#advice
+- LogTraceAdvice의 proceed(인터페이스 내장 메서드)가 invoke 대체
